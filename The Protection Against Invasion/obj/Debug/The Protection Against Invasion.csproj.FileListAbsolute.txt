@@ -1,0 +1,30 @@
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\bin\Debug\The Protection Against Invasion.exe.config
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\bin\Debug\The Protection Against Invasion.exe
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\bin\Debug\The Protection Against Invasion.pdb
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.csproj.AssemblyReference.cache
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\MainWindow.g.cs
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\App.g.cs
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The Protection Against Invasion_MarkupCompile.cache
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The Protection Against Invasion_MarkupCompile.lref
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\MainWindow.baml
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.g.resources
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The_Protection_Against_Invasion.Properties.Resources.resources
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.csproj.GenerateResource.cache
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.csproj.CoreCompileInputs.cache
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.exe
+C:\Users\lacee\source\repos\The Protection Against Invasion\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.pdb
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\bin\Debug\The Protection Against Invasion.exe.config
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\bin\Debug\The Protection Against Invasion.exe
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\bin\Debug\The Protection Against Invasion.pdb
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.csproj.AssemblyReference.cache
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\MainWindow.g.cs
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\App.g.cs
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The Protection Against Invasion_MarkupCompile.cache
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The Protection Against Invasion_MarkupCompile.lref
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\MainWindow.baml
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.g.resources
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The_Protection_Against_Invasion.Properties.Resources.resources
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.csproj.GenerateResource.cache
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.csproj.CoreCompileInputs.cache
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.exe
+C:\Users\lacee\source\repos\Brendon féle Money Heist\The Protection Against Invasion\obj\Debug\The Protection Against Invasion.pdb
